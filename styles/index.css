@@ -22,3 +22,6 @@
 @import url('../block/intro/__list-item/intro__list-item.css');
 @import url('../block/intro/__list-item/_font-normal/intro__list-item_font-normal.css');
 
+@import url('../block/photo-grid/photo-grid.css');
+@import url('../block/photo-grid/__item/photo-grid__item.css')
+
