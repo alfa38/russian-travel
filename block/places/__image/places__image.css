@@ -3,6 +3,7 @@
     max-width: 460px;
     object-fit: cover;
     min-width: 50%;
+    width: 50%;
 }
 
 @media screen and (max-width: 1024px) {
