@@ -3,6 +3,7 @@
     max-width: 460px;
     object-fit: cover;
     min-width: 50%;
+    width: 50%;
 }
 
 @media screen and (max-width: 1024px) {
@@ -10,7 +11,6 @@
         max-height: 440px;
         max-width: 440px;
         object-fit: cover;
-        min-width: 50%;
     }
     
 }
@@ -18,8 +18,7 @@
 @media screen and (max-width: 768px) {
     .places__image {
         max-height: 340px;
-        max-width: 340px;
-        
+        max-width: 340px;    
     }
     
 }
