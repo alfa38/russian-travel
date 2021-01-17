@@ -1,25 +1,21 @@
-.place {
+.places__place {
     margin: 80px auto 0 auto;
     width: 90%;
 }
 
-.place:first-child {
+.places__place:first-child {
     margin-top: 0;
 }
 
-@media screen and (max-width: 1024px) {
-    
-}
-
 @media screen and (max-width: 768px) {
-    .place { 
+    .places__place { 
         margin-top: 72px;
     }
 }
 
 
 @media screen and (max-width: 425px) {
-    .place {
+    .places__place {
         margin-top: 64px;
         width: 100%;
     }
