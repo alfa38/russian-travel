@@ -1,15 +1,15 @@
-.place__flex-row {
+.places__flex-row {
     margin: 40px 0 0 0;
     display: flex;
     flex-direction: row;
 }
 
-.place__flex-row:first-child {
+.places__flex-row:first-child {
     margin-top: 0px;
 }
 
 @media screen and (max-width: 425px) {
-    .place__flex-row {
+    .places__flex-row {
         flex-direction: column;
     }
 }

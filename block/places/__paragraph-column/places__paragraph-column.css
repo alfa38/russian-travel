@@ -1,4 +1,4 @@
-.place__paragraph-column {
+.places__paragraph-column {
     display: flex;
     flex-direction: column;
     width: 50%;
