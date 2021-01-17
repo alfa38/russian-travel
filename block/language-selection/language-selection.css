@@ -1,9 +1,0 @@
-.language-selection {
-    list-style-type: none;
-    display: flex;
-    flex-direction: row;
-    margin: 0;
-    position: absolute;
-    right: 0;
-    bottom: 6px;
-}
