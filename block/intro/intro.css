@@ -3,13 +3,9 @@
     margin: 92px auto 0 5%;
 }
 
-@media screen and (max-width: 1024px) {
-    
-}
-
 @media screen and (max-width: 768px) {
     .intro {
-        margin: 88px 5% 0 5%;
+        margin: 88px auto 0 5%;
     }
 }
 
