@@ -4,4 +4,6 @@
 
 Сайт вкратце рассказывающий что можно увидеть путешествуя по России
 
+Ссылка на [сайт](https://alfa38.github.io/russian-travel/index.html)
+
 HTML и CSS
