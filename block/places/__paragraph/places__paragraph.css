@@ -1,27 +1,31 @@
 .places__paragraph {
-    margin: 26px auto 0 5%;
+    margin: 26px 0 0 0;
     font-size: 18px;
-    line-height: 22px;
+    line-height: 29px;
 }
 
 .places__paragraph:first-child {
     margin-top: 0px;
 }
 
-@media screen and (max-width:  768px) {
+/* @media screen and (max-width:  768px) {
     .places__paragraph {
         margin: 25px 5% 0 5%;
         font-size: 16px;
         line-height: 18px;
     }
+} */
+
+@media screen and (max-width: 1023px) {
+    .places__paragraph {
+        font-size: 16px;
+        line-height: 26px;
+    }
 }
 
-
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .places__paragraph {
-        margin: 25px 5% 0 5%;
-        font-size: 18px;
-        line-height: 26px;
+        margin-top: 25px;
     }
     
     .places__paragraph:first-child {
