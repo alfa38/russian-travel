@@ -1,5 +1,5 @@
 .places__link {
-    margin: 0;
+    margin: 12px 0 0 0;
     text-decoration: underline;
     font-size: 18px;
     line-height: 22px;
@@ -9,10 +9,4 @@
 
 .places__link:hover {
     opacity: 0.8;
-}
-
-@media screen and (max-width: 767px) {
-    .places__link {
-        margin-top: 12px;
-    }
 }
